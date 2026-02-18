@@ -12,7 +12,7 @@ Extract structured data from receipt images using Gemini AI.
 ## Installation
 
 ```bash
-pip install receipt-ocr
+pip install gemini-receipt-ocr
 ```
 
 ## Quick Start
