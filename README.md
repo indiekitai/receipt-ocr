@@ -1,3 +1,5 @@
+[English](README.md) | [中文](README.zh-CN.md)
+
 # receipt-ocr
 
 Extract structured data from receipt images using Gemini AI.
